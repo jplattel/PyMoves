@@ -6,7 +6,7 @@ The only dependency of this library is [Requests](http://docs.python-requests.or
 
 ## Example Usage
 
-	from pymoves import Moves
+	from moves import Moves
 	m = Moves()
 
 Get a request token URL:
